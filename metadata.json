@@ -1,0 +1,5 @@
+{
+  "name": "Symptom Checker AI",
+  "description": "Symptom Checker AI helps you understand potential health conditions based on your symptoms. This tool provides informational guidance only and is not a substitute for professional medical advice.",
+  "requestFramePermissions": []
+}
